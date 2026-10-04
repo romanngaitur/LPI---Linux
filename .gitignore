@@ -1,0 +1,23 @@
+# Logs et rapports locaux
+*.log
+lpi_rapport_*.txt
+
+# Fichiers de configuration locaux
+*.conf
+.env
+.env.*
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.temp
